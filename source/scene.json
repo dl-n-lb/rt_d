@@ -1,0 +1,19 @@
+{
+  "Materials": [
+    {
+      "ID": "Blue Lambert",
+      "Type": "Lambert",
+      "Albedo": [24, 45, 255]
+    }
+  ],
+  "Shapes": [
+    {
+      "Type": "Sphere",
+      "Radius": 5,
+      "Transform": {
+        "Position": [0, 0, -1]
+      },
+      "Material": "Blue Lambert"
+    }
+  ]
+}

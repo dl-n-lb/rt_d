@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"matt"
+	],
+	"copyright": "Copyright © 2022, matt",
+	"dependencies": {
+		"dlib": "~>1.0.0",
+		"soa": "~>0.2.0"
+	},
+	"description": "Reworked raytracer",
+	"license": "WTFPL",
+	"name": "rt",
+    "dflags": ["-J."]
+}

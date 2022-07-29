@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"dlib": "1.0.0",
+		"soa": "0.2.0",
+	}
+}

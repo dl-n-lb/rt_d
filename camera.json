@@ -1,0 +1,11 @@
+{
+  "Camera": {
+    "Position": [0, 0, -1],
+    "LookAt": [0, 0, 0],
+    "fov": 45,
+    "Aperture": 0.1
+  },
+  "Settings": {
+    
+  }
+}

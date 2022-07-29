@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rt
+rt.so
+rt.dylib
+rt.dll
+rt.a
+rt.lib
+rt-test-*
+*.exe
+*.o
+*.obj
+*.lst
